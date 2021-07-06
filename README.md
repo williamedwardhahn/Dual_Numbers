@@ -1,5 +1,6 @@
 # Dual Numbers
 
+https://justindomke.wordpress.com/2009/02/17/automatic-differentiation-the-most-criminally-underused-tool-in-the-potential-machine-learning-toolbox/
 
 https://blog.demofox.org/2014/12/30/dual-numbers-automatic-differentiation/
 
