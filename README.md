@@ -12,6 +12,7 @@ http://www.ams.org/publicoutreach/feature-column/fc-2017-12#:~:text=Dual%20numbe
 
 https://alemorales.info/post/automatic-differentiation-with-dual-numbers/
 
+https://stacks.stanford.edu/file/druid:jw107zn5044/JeffFike_thesis_online_twosided-augmented.pdf
 
 Related Method:
 https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/
