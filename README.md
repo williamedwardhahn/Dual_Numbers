@@ -14,5 +14,9 @@ https://alemorales.info/post/automatic-differentiation-with-dual-numbers/
 
 https://stacks.stanford.edu/file/druid:jw107zn5044/JeffFike_thesis_online_twosided-augmented.pdf
 
+https://www.osti.gov/servlets/purl/1368722#:~:text=Hyper%2DDual%20Numbers%20%5BFike%20and,type%20of%20Generalized%20Complex%20Number.&text=Truncation%20error%20is%20associated%20with,ignored%20when%20forming%20the%20approximation.
+
 Related Method:
 https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/
+
+https://www.shadertoy.com/view/Xd2GzR
