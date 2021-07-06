@@ -16,6 +16,14 @@ https://stacks.stanford.edu/file/druid:jw107zn5044/JeffFike_thesis_online_twosid
 
 https://www.osti.gov/servlets/purl/1368722#:~:text=Hyper%2DDual%20Numbers%20%5BFike%20and,type%20of%20Generalized%20Complex%20Number.&text=Truncation%20error%20is%20associated%20with,ignored%20when%20forming%20the%20approximation.
 
+https://arxiv.org/pdf/1801.03614.pdf
+
+https://github.com/oberbichler/HyperJet
+
+https://github.com/sdl1/nabla
+
+https://github.com/khizirsiddiqui/auto-grad
+
 Related Method:
 https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/
 
