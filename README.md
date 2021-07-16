@@ -27,3 +27,6 @@
 
 [Shader toy - Dual Complex numbers](https://www.shadertoy.com/view/Xd2GzR)
 
+http://eviatarbach.com/2013/05/13/dual-numbers-and-automatic-differentiation/
+
+https://towardsdatascience.com/forward-mode-automatic-differentiation-dual-numbers-8f47351064bf
